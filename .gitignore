@@ -1,0 +1,11 @@
+# Source code (protect from public access)
+src/
+build.js
+
+# npm / build tools
+node_modules/
+package.json
+package-lock.json
+
+# Backups
+js/bunq-bundle-backup.js
